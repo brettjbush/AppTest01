@@ -1,2 +1,1 @@
-# PrivateTest01
-Testing a private repository
+# Testing out GitHub with a simple Android App! Don't mind me! ;)
